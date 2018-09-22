@@ -2,3 +2,5 @@
 *.gz
 *.xlsx
 *.pdf
+/pdf
+/latex

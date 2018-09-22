@@ -6,7 +6,7 @@
 \usepackage[parfill]{parskip} % Do not indent paragraphs
 \usepackage{fp} % Fixed-point arithmetic
 \usepackage[utf8]{inputenc}
-\usepackage[swedish]{babel}
+%\usepackage[swedish]{babel}
 \usepackage{longtable}
 
 \pagestyle{empty} % No page numbers
